@@ -1,4 +1,4 @@
-# WSU_PHYS6850_W21_repo
+# WSU_PHYS5100_repo
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chunshen1987/WSU_PHYS5100_repo/HEAD)
 
